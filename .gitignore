@@ -1,5 +1,5 @@
-YOLOFromScratch/coco2017/
-YOLOFromScratch/coco-manager/
-YOLOFromScratch/ipynb_checkpoints/
+YOLOFromScratch/coco2017/**
+YOLOFromScratch/coco-manager/**
+YOLOFromScratch/ipynb_checkpoints/**
 YOLOFromScratch/COCO.zip
-YOLOFromScratch/data/
+YOLOFromScratch/data/**
